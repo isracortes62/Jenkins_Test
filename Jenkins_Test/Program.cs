@@ -11,6 +11,7 @@ namespace Jenkins_Test
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World");
+            Console.WriteLine("Running every 15 minutes");
         }
     }
 }
